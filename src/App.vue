@@ -146,7 +146,7 @@ li {
 }
 
 li button {
-  background-color: #4caf50;
+  background-color: #45cdd6;
   color: #fff;
   border: none;
   border-radius: 0.5rem;
@@ -156,7 +156,7 @@ li button {
 }
 
 li button:hover {
-  background-color: #3e8e41;
+  background-color: #45cdd6;
 }
 
 .carrinho {
@@ -171,7 +171,7 @@ li button:hover {
 }
 
 button {
-  background-color: #4caf50;
+  background-color: #45cdd6;
   color: #fff;
   border: none;
   border-radius: 0.5rem;
@@ -181,7 +181,7 @@ button {
 }
 
 button:hover {
-  background-color: #3e8e41;
+  background-color: #45cdd6;
 }
 
 button:disabled {
