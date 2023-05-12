@@ -65,6 +65,7 @@ const produtos = ref([
     quantidade: 1
   }
 ])
+
 let carrinho = ref([])
 function addcarrinho(item) {
   carrinho.value.push({
